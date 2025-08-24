@@ -1,0 +1,167 @@
+[
+  {
+    "category": "general_knowledge",
+    "questions": [
+      "What is artificial intelligence?",
+      "Tell me about AI",
+      "Explain machine learning",
+      "What is deep learning?"
+    ],
+    "answer": "Artificial Intelligence (AI) is the simulation of human intelligence in machines programmed to think and learn like humans. It includes machine learning, where computers learn from data without explicit programming, and deep learning, which uses neural networks to process complex patterns. AI is used in various applications like image recognition, natural language processing, autonomous vehicles, and recommendation systems.",
+    "keywords": "AI, artificial intelligence, machine learning, deep learning, neural networks, technology"
+  },
+  {
+    "category": "technology",
+    "questions": [
+      "What is Python programming?",
+      "Tell me about Python",
+      "Why use Python?",
+      "Python programming language"
+    ],
+    "answer": "Python is a high-level, interpreted programming language known for its simplicity and readability. It's widely used in web development, data science, machine learning, automation, and scientific computing. Python's syntax is clean and easy to learn, making it perfect for beginners and professionals alike. It has extensive libraries like NumPy, Pandas, Django, and TensorFlow.",
+    "keywords": "Python, programming, coding, development, data science, web development"
+  },
+  {
+    "category": "science",
+    "questions": [
+      "How does photosynthesis work?",
+      "Explain photosynthesis",
+      "What is photosynthesis?",
+      "Plant photosynthesis process"
+    ],
+    "answer": "Photosynthesis is the process by which plants convert sunlight, carbon dioxide, and water into glucose and oxygen. It occurs in chloroplasts using chlorophyll. The process has two stages: light reactions (converting light energy to chemical energy) and the Calvin cycle (using that energy to make glucose). The overall equation is: 6CO₂ + 6H₂O + light energy → C₆H₁₂O₆ + 6O₂.",
+    "keywords": "photosynthesis, plants, chlorophyll, glucose, oxygen, carbon dioxide, biology"
+  },
+  {
+    "category": "history",
+    "questions": [
+      "When did World War 2 end?",
+      "End of World War II",
+      "WW2 ending date",
+      "Second World War conclusion"
+    ],
+    "answer": "World War II ended on September 2, 1945, when Japan formally surrendered aboard the USS Missouri in Tokyo Bay. This followed the atomic bombings of Hiroshima (August 6) and Nagasaki (August 9), and the Soviet invasion of Manchuria. Germany had already surrendered on May 8, 1945 (VE Day), ending the war in Europe.",
+    "keywords": "World War 2, WW2, 1945, surrender, Japan, Germany, history, atomic bomb"
+  },
+  {
+    "category": "mathematics",
+    "questions": [
+      "What is calculus?",
+      "Explain calculus",
+      "What are derivatives?",
+      "Tell me about integration"
+    ],
+    "answer": "Calculus is a branch of mathematics that deals with rates of change and accumulation. It has two main branches: differential calculus (derivatives) which studies instantaneous rates of change, and integral calculus which studies accumulation of quantities. Derivatives help find slopes and optimization, while integrals calculate areas under curves and total quantities.",
+    "keywords": "calculus, mathematics, derivatives, integrals, rates of change, optimization"
+  },
+  {
+    "category": "space",
+    "questions": [
+      "How far is the moon?",
+      "Distance to moon",
+      "Moon distance from Earth",
+      "How far away is the moon?"
+    ],
+    "answer": "The Moon is approximately 384,400 kilometers (238,855 miles) away from Earth on average. This distance varies because the Moon's orbit is elliptical, ranging from about 356,500 km (221,500 miles) at perigee (closest) to 406,700 km (252,700 miles) at apogee (farthest). Light takes about 1.3 seconds to travel from Earth to the Moon.",
+    "keywords": "moon, distance, space, Earth, orbit, kilometers, miles, astronomy"
+  },
+  {
+    "category": "health",
+    "questions": [
+      "Benefits of exercise",
+      "Why should I exercise?",
+      "What are health benefits of working out?",
+      "Exercise advantages"
+    ],
+    "answer": "Regular exercise provides numerous health benefits including improved cardiovascular health, stronger muscles and bones, better mental health, weight management, enhanced immune system, better sleep quality, increased energy levels, and reduced risk of chronic diseases like diabetes and heart disease. Even 30 minutes of moderate exercise daily can make a significant difference.",
+    "keywords": "exercise, health, fitness, cardiovascular, mental health, weight loss, immunity"
+  },
+  {
+    "category": "environment",
+    "questions": [
+      "What is climate change?",
+      "Explain global warming",
+      "Climate change effects",
+      "Environmental issues"
+    ],
+    "answer": "Climate change refers to long-term shifts in global temperatures and weather patterns. While natural factors contribute, human activities since the 1800s have been the main driver, primarily through burning fossil fuels which increases greenhouse gases. Effects include rising temperatures, melting ice caps, sea level rise, extreme weather events, and ecosystem disruption.",
+    "keywords": "climate change, global warming, environment, greenhouse gases, fossil fuels, temperature"
+  },
+  {
+    "category": "business",
+    "questions": [
+      "What is entrepreneurship?",
+      "How to start a business?",
+      "Business startup advice",
+      "Entrepreneurship tips"
+    ],
+    "answer": "Entrepreneurship is the process of creating, developing, and managing a new business venture to make profit while taking on financial risks. Key steps include: identifying market opportunities, developing a business plan, securing funding, building a team, creating a minimum viable product, marketing effectively, and continuously adapting based on customer feedback and market changes.",
+    "keywords": "entrepreneurship, business, startup, venture, profit, market, planning, funding"
+  },
+  {
+    "category": "food",
+    "questions": [
+      "What is a balanced diet?",
+      "Healthy eating habits",
+      "Nutrition guidelines",
+      "What foods are healthy?"
+    ],
+    "answer": "A balanced diet includes a variety of foods in the right proportions: fruits and vegetables (5+ servings daily), whole grains, lean proteins (fish, poultry, beans, nuts), and healthy fats. Limit processed foods, sugar, and excessive salt. Stay hydrated with water. A balanced diet provides essential nutrients, maintains healthy weight, and reduces disease risk.",
+    "keywords": "balanced diet, nutrition, healthy eating, fruits, vegetables, proteins, whole grains"
+  },
+  {
+    "category": "geography",
+    "questions": [
+      "What is the largest ocean?",
+      "Biggest ocean in the world",
+      "Pacific Ocean facts",
+      "Ocean sizes"
+    ],
+    "answer": "The Pacific Ocean is the largest ocean in the world, covering about 46% of the global ocean surface and one-third of Earth's total surface area. It spans approximately 165 million square kilometers (63.8 million square miles) and contains more than half of the world's ocean water. It stretches from Asia and Australia to the Americas.",
+    "keywords": "Pacific Ocean, largest ocean, geography, Earth, water, surface area, world"
+  },
+  {
+    "category": "literature",
+    "questions": [
+      "Who wrote Romeo and Juliet?",
+      "Shakespeare plays",
+      "Romeo and Juliet author",
+      "Famous literature"
+    ],
+    "answer": "Romeo and Juliet was written by William Shakespeare, one of the greatest playwrights in English literature. Written in the early part of his career (around 1594-1596), it's a tragic love story about two young star-crossed lovers whose deaths unite their feuding families. The play is known for its beautiful poetry, memorable characters, and timeless themes of love, fate, and conflict.",
+    "keywords": "Romeo and Juliet, Shakespeare, literature, play, tragedy, love story, English"
+  },
+  {
+    "category": "current_events",
+    "questions": [
+      "What is social media?",
+      "Impact of social media",
+      "Social networking platforms",
+      "Digital communication"
+    ],
+    "answer": "Social media refers to digital platforms that enable users to create, share content, and interact with others online. Popular platforms include Facebook, Instagram, Twitter, LinkedIn, and TikTok. Social media has revolutionized communication, business marketing, news distribution, and social interactions, but also raises concerns about privacy, misinformation, and mental health impacts.",
+    "keywords": "social media, digital, platforms, Facebook, Instagram, Twitter, communication, networking"
+  },
+  {
+    "category": "economics",
+    "questions": [
+      "What is inflation?",
+      "Explain economic inflation",
+      "Rising prices explanation",
+      "Economic concepts"
+    ],
+    "answer": "Inflation is the general increase in prices of goods and services over time, reducing the purchasing power of money. It's measured as a percentage rate, typically annually. Moderate inflation (2-3%) is considered healthy for economic growth, but high inflation can erode savings and wages. Causes include increased demand, supply shortages, or monetary policy changes.",
+    "keywords": "inflation, economics, prices, purchasing power, money, economic growth, demand, supply"
+  },
+  {
+    "category": "psychology",
+    "questions": [
+      "What is stress?",
+      "How to manage stress?",
+      "Stress management techniques",
+      "Mental health and stress"
+    ],
+    "answer": "Stress is the body's response to challenging or threatening situations, triggering physical and emotional reactions. While some stress can be motivating, chronic stress can harm physical and mental health. Management techniques include regular exercise, deep breathing, meditation, time management, social support, adequate sleep, and professional help when needed.",
+    "keywords": "stress, mental health, psychology, management, meditation, exercise, well-being"
+  }
+]
